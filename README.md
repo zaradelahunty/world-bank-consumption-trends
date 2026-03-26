@@ -69,12 +69,6 @@ Consumption trends show consistent upward movement globally, indicating increasi
 
 ---
 
-![Dashboard](dashboard.png)
-
-![Consumption Trends](images/consumption_trends.png)
-
----
-
 ## Recommendations  
 - Prioritise expansion into high-growth markets  
 - Use consumption trends to guide market selection  
