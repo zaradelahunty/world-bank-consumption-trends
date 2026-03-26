@@ -49,6 +49,13 @@ Global consumption has increased significantly over time, while UK growth remain
 **Business implication:** Faster-growing markets may offer stronger expansion opportunities than mature economies like the UK.  
 
 ---
+## Dashboard
+
+This dashboard highlights global consumption trends and identifies high-growth markets for business expansion.
+
+🔗 Live Dashboard: [View on Tableau Public](PASTE_YOUR_LINK)
+
+![Dashboard](images/dashboard.png)
 
 ### Mature vs Emerging Market Trends  
 The UK represents a stable economy, whereas global trends reflect higher growth driven by emerging markets.  
