@@ -69,9 +69,7 @@ Consumption trends show consistent upward movement globally, indicating increasi
 
 ---
 
-## Example Output  
-
-Add your chart here:
+![Dashboard](dashboard.png)
 
 ![Consumption Trends](images/consumption_trends.png)
 
