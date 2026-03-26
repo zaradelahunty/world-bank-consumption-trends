@@ -1,31 +1,31 @@
 # Global Consumption Trends for Market Expansion Strategy
 
-## 📌 Project Overview  
+## Project Overview  
 This project analyses global consumption trends using World Bank data to identify high-growth markets and inform data-driven business expansion strategies.  
 
 The analysis simulates a real-world scenario in which an organisation evaluates international markets based on macroeconomic indicators and consumption patterns to support strategic decision-making.
 
 ---
 
-## 📊 Dashboard  
+## Dashboard  
 
-The dashboard provides a visual analysis of global consumption trends, enabling quick identification of high-growth markets and regional performance differences.
+The dashboard provides a visual analysis of global consumption trends, enabling identification of high-growth markets and regional performance differences.
 
 ![Dashboard](dashboard.png)
 
 ---
 
-## 🎯 Business Problem  
+## Business Problem  
 Businesses expanding internationally must determine which markets offer the highest growth potential while balancing risk and stability.  
 
-This project addresses how consumption data can be leveraged to:
+This project demonstrates how consumption data can be used to:
 - Identify emerging high-growth markets  
 - Benchmark mature economies (e.g. UK) against global trends  
 - Support strategic market entry decisions  
 
 ---
 
-## 📈 Key Metrics & KPIs  
+## Key Metrics  
 - Household final consumption expenditure  
 - Year-on-year consumption growth rate  
 - UK vs global consumption comparison  
@@ -33,7 +33,7 @@ This project addresses how consumption data can be leveraged to:
 
 ---
 
-## 🔍 Analytical Approach  
+## Analytical Approach  
 
 - Extracted data from the World Bank API (JSON format)  
 - Performed data cleaning and preprocessing (handling missing values and inconsistencies)  
@@ -44,42 +44,39 @@ This project addresses how consumption data can be leveraged to:
 
 ---
 
-## 💡 Key Insights  
+## Key Insights  
 
-### 1. Global Growth Outpaces the UK  
+### Global Growth Outpaces the UK  
 Global consumption has increased significantly over time, while UK growth remains relatively stable.  
 
-👉 **Insight:** Mature economies demonstrate slower, more stable growth patterns.  
-👉 **Business Impact:** Expansion into faster-growing markets may yield higher returns.
+Business implication: Mature economies demonstrate slower, more stable growth patterns. Expansion into faster-growing markets may yield higher returns.
 
 ---
 
-### 2. Emerging Markets Drive Consumption Growth  
+### Emerging Markets Drive Consumption Growth  
 Emerging economies exhibit significantly higher consumption growth compared to developed markets.  
 
-👉 **Insight:** Growth is concentrated in developing regions.  
-👉 **Business Impact:** These markets present strong opportunities for expansion and revenue growth.
+Business implication: Growth is concentrated in developing regions, presenting strong opportunities for expansion.
 
 ---
 
-### 3. Sustained Long-Term Growth Trend  
+### Sustained Long-Term Growth Trend  
 Global consumption shows a consistent upward trajectory over time.  
 
-👉 **Insight:** Increasing purchasing power globally supports long-term demand.  
-👉 **Business Impact:** Indicates favourable conditions for sustained market expansion.
+Business implication: Increasing purchasing power globally supports long-term demand and expansion potential.
 
 ---
 
-## 🧠 Recommendations  
+## Recommendations  
 
 - Prioritise entry into high-growth emerging markets  
-- Use consumption trends as a key input for market selection frameworks  
+- Use consumption trends as a key input for market selection  
 - Monitor macroeconomic indicators to identify early-stage opportunities  
-- Diversify across both stable and high-growth markets to balance risk  
+- Diversify across stable and high-growth markets to balance risk  
 
 ---
 
-## ⚠️ Limitations  
+## Limitations  
 
 - Analysis is based on historical macroeconomic data and may not capture short-term volatility  
 - External factors (e.g. political risk, inflation, currency fluctuations) are not included  
@@ -87,7 +84,8 @@ Global consumption shows a consistent upward trajectory over time.
 
 ---
 
-## 🛠 Tools & Technologies  
+## Tools and Technologies  
+
 - Python (pandas, matplotlib)  
 - REST API (World Bank Open Data)  
 - Data cleaning and transformation  
@@ -96,7 +94,7 @@ Global consumption shows a consistent upward trajectory over time.
 
 ---
 
-## ▶️ How to Run  
+## How to Run  
 
 ```bash
 python3 analysis.py
